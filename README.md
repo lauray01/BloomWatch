@@ -1,1 +1,15 @@
 # BloomWatch
+## Summary
+AgroBloom is an accessible web application that transforms NASA Earth observation data into actionable insights for both farmers and plant lovers. We developed an interactive map where users can select a region, apply filters such as soil, temperature, or rainfall, and simulate how extreme events like floods, droughts, heatwaves, or wildfires affect blooming cycles and harvest times. The platform displays satellite-based vegetation indexes from Landsat in a clear, accessible interface, with warnings and statistics that help users understand and anticipate changes. AgroBloom addresses the BloomWatch Challenge by making bloom detection and prediction both scientific and approachable. Starting with a local focus, it supports farmers and cooperatives by providing decision support to reduce losses and adapt to climate change. For individuals, it enables people to know when their flowers will bloom, when to plant, and how weather may affect gardens and local flora. By combining satellite science with user-friendly design, AgroBloom empowers local communities to connect space data with everyday life and creates a model that can later be scaled globally.
+## Project Details
+AgroBloom is designed as an accessible interactive web application that makes NASA satellite data practical for agriculture and daily life. It works by allowing users to choose a region on the map, apply filters such as soil quality, temperature, or rainfall, and simulate how extreme climate events will influence vegetation blooming and harvesting times. The tool integrates Landsat vegetation indexes (NDVI/EVI) and overlays climate risk zones (floods, droughts, heatwaves, wildfires) to generate clear warnings and statistics.
+
+ ### The benefits are multiple:
+
+For farmers and cooperatives, AgroBloom provides data-driven decision support to adapt planting and harvesting, reducing losses from climate extremes.
+For plant lovers and the general public, it enables people to anticipate blooming periods for flowers, gardens, and seasonal events.
+The intended impact is to improve resilience to climate change, make satellite data accessible, and connect science with local communities first. By focusing on local benefits—helping vineyards, olive groves, and gardens in Spain—we create a model that can later be scaled and exported to other countries facing similar challenges.
+
+Our prototype was developed in Figma for web design mockups and leverages Google Earth for visualization. We would use Python for simulations and mock APIs. We emphasized accessibility, ensuring the platform can be used even with limited connectivity through preloaded maps and offline-friendly outputs.
+
+The project is creative because it bridges professional agriculture with everyday gardening, turning complex satellite science into something interactive, visual, and inclusive. In designing AgroBloom, we considered climate impact, local accessibility, and global scalability, alongside the need for both scientific accuracy and intuitive storytelling.
